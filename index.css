@@ -1,0 +1,106 @@
+div.h {
+    border: 1px solid #ebebeb;
+    padding: 25px 50px;
+    background: #ebebeb;
+    color: #777;
+    width: 960px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+nav {
+    border: 1px solid #ebebeb;
+    padding: 25px 50px;
+    background: #ebebeb;
+    color: #777;
+    width: 960px;
+    text-align: center;
+    float: none;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background: #777;
+}
+
+aside {
+    border: 1px solid #ebebeb;
+    background: #ebebeb;
+    color: #777;
+    width: 450px;
+    float: right;
+    font-size: 18px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    border: 1px solid #ebebeb;
+    padding: 30px 50px;
+    background: #ebebeb;
+    color: #777;
+    width: 495px;
+    height: 250px;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 14.5em;
+    float: left;
+}
+
+aside {
+    float: left;
+    margin-left: 14px;
+    height: 284px;
+    padding-top: 25px;
+}
+
+div.article {
+    background: #777;
+    color: white;
+    padding-bottom: 30px;
+    margin-top: 6%;
+    padding-top: 4%;
+}
+
+div.heading {
+    color: #777;
+    background: #ebebeb;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    }
+
+div.para {
+    color: #777;
+    background: #ebebeb;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+footer.last {
+    border: 1px solid #ebebeb;
+    padding: 25px 50px;
+    background: #ebebeb;
+    color: #777;
+    width: 960px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
